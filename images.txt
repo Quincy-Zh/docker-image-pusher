@@ -1,1 +1,2 @@
 lyswhut/lx-music-sync-server:latest
+ghcr.io/home-assistant/home-assistant:stable
