@@ -2,3 +2,4 @@ lyswhut/lx-music-sync-server:latest
 ghcr.io/home-assistant/home-assistant:stable
 florider89/joplin-server:latest
 filebrowser/filebrowser:s6
+onlyoffice/documentserver:latest
